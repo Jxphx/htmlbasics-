@@ -1,0 +1,24 @@
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+}
+#inp1{
+
+    background-color: aquamarine;
+}
+#inp2{
+    
+    background-color: rgba(37, 217, 58, 0);
+}
+#inp3{
+    
+    background-color: rgba(227, 13, 13, 0.623);
+}
+.grup1{
+    background-color: rgb(216, 137, 119);
+    border: 3px solid rgb(43, 77, 249);
+    margin:5% 30% 2% 20%;
+    padding: 10px 30px 10px 50px   ;
+
+}
